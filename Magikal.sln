@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Magikal", "Magikal\Magikal.csproj", "{0398D32A-1A90-4D6F-9BF0-B493602F6E60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagikalGame", "MagikalGame\MagikalGame.csproj", "{7364C8C2-A423-4818-9BDD-B64ECF524503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0398D32A-1A90-4D6F-9BF0-B493602F6E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0398D32A-1A90-4D6F-9BF0-B493602F6E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0398D32A-1A90-4D6F-9BF0-B493602F6E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0398D32A-1A90-4D6F-9BF0-B493602F6E60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7364C8C2-A423-4818-9BDD-B64ECF524503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7364C8C2-A423-4818-9BDD-B64ECF524503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7364C8C2-A423-4818-9BDD-B64ECF524503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7364C8C2-A423-4818-9BDD-B64ECF524503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55D73F0B-32C4-46FC-B385-98E7D9D5CBFC}
+	EndGlobalSection
+EndGlobal
